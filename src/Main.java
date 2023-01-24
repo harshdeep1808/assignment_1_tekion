@@ -15,7 +15,7 @@ public class Main {
             if(run==-1) {
                 //System.out.println("wicket");
                 wickets++;
-                if (wickets == 2) {
+                if (wickets == 10) {
                     team++;
                     wickets=0;
                     System.out.print(score);
